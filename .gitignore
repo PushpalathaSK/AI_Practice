@@ -1,0 +1,13 @@
+# Ignore virtual environments
+venv/
+env/
+sql_env/
+
+# Ignore system files
+__pycache__/
+*.pyc
+
+# Ignore dataset or large files
+*.csv
+*.pkl
+*.zip
